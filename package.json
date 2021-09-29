@@ -1,0 +1,19 @@
+{
+  "name": "@thjxs/ttr-template",
+  "version": "1.0.0",
+  "author": {
+    "name": "HongJian"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "tailwindcss",
+    "typescript"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "license": "MIT"
+}
