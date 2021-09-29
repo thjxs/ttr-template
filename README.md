@@ -1,5 +1,5 @@
 # Create react app template
-A tempalte for create react app.
+A template for create react app.
 
 To use this template, add `--template @thjxs/ttr` when creating a new app.
 
